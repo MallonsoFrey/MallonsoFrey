@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a pet NASA project**
 
-- 🌱 I’m currently learning **ReactJS, TypeScript, Tailwind**
+- 🌱 I’m currently learning **Redux, TypeScript, Tailwind**
 
 - ⚡ Fun fact **Changed engineering carreer to IT**
 
