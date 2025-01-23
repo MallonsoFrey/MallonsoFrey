@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">A passionate frontend developer in a process of constant learning and development</h3>
 
-- 🔭 I’m currently working on **a pet NASA project**
-
 - 🌱 I’m currently learning **Redux, TypeScript, Tailwind**
 
 - ⚡ Fun fact **Changed engineering carreer to IT**
