@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marina</h1>
 <h3 align="center">A passionate frontend developer in a process of constant learning and development</h3>
 
-- 🌱 I’m currently learning **Redux, TypeScript, Tailwind**
+- 🌱 I’m currently learning **Redux and TypeScript**
 
 - ⚡ Fun fact **Changed engineering carreer to IT**
 
